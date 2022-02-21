@@ -107,7 +107,7 @@
 }
 
 .footer-top .footer-item{
-    padding-top: 1rem;
+    padding-top: 1rem
 }
 
 .footer-top .footer-info h3{
@@ -125,6 +125,13 @@
 .footer-top .footer-info .mail{
     text-decoration: none;
 }
+.footer-top .footer-info .phone{
+    text-decoration: none;
+}
+.footer-top .footer-info .phone:hover{
+    color: white;
+}
+
 .footer-top .footer-info .mail:hover{
     color: white;
 }
@@ -132,7 +139,7 @@
 .footer-top .social-links a {
     width: 2rem;
     height: 2rem;
-    padding-top: 0.1rem;
+    padding-top: 0.2rem;
     display: inline-block;
     background-color: rgb(240 240 240);
     margin-right: 0.5rem;
