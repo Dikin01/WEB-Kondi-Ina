@@ -11,8 +11,8 @@
 }
 #hero{
     width: 100%;
-    height: 100%;
-    padding-bottom: 5vw;
+    /* height: 100%; */
+    padding-bottom: 6rem;
     background-color: #d8f4ff;
     background-size: cover;
     position: relative;
